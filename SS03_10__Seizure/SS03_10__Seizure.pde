@@ -1,4 +1,4 @@
-//Chen Xin Lin, 10% Seizure, mouse pressed
+//Chen Xin Lin, 10__Seizure, mouse pressed
 void setup(){
 
 size(1080, 720);
