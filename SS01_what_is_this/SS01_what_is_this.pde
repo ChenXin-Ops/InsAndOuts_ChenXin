@@ -1,4 +1,4 @@
-//What is this? by Chen Xin Lin
+//What is this by Chen Xin Lin
 background(255);
 size(1080, 720);
 int a;
