@@ -1,4 +1,4 @@
-//Chen Xin Lin, Red Blood Cells
+//Chen Xin Lin, red blood cells
 int[] pointX= new int[4000];
 int[] pointY= new int[4000];
 void setup(){
