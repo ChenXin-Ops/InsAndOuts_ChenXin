@@ -1,4 +1,4 @@
-//Chen Xin Lin  press 1 for question 1, and press 2 for question 2,press 3 for question 3, etc...and press 0 for menu page!
+//Chen Xin Lin  press 1 for question 1, and press 2 for question 2,press 3 for question 3, etc...and press 0 for menu page! V2
 PImage[] Night = new PImage [20];
 String q=("You're Completely WRONG!");
 String w=("Are You Crazy!?");
