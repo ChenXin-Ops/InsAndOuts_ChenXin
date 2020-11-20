@@ -1,4 +1,5 @@
 
+//Arduino
 byte val;
 int pin_LEDgreen = 11;
 int pin_LEDred = 10;
@@ -67,6 +68,6 @@ void loop()
   }
   
   
-  delay(100); // Wait 10 milliseconds
+  delay(100); 
 
 }
